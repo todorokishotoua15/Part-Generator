@@ -1,0 +1,3 @@
+[submodule "generator/generator/whatsapp-node-api"]
+	path = generator/generator/whatsapp-node-api
+	url = https://github.com/pranavms13/whatsapp-node-api
